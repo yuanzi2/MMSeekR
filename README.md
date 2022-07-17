@@ -10,7 +10,7 @@ Obtain MMSeekR.data
 git clone git@github.com:yuanzi2/MMSeekR.data.git
 ```
 
-Obtain MMSeekR2
+Obtain MMSeekR
 ```
 git clone git@github.com:yuanzi2/MMSeekR.git
 ```
@@ -25,12 +25,12 @@ if(!requireNamespace("devtools", quietly = TRUE)) {install.packages("devtools")}
 devtools::install_github("ran-ran/zoocat")  ##Which would you like to update? Please choose 3
 ```
 
-Enter the path where the MethylSeekR2.data located
+Enter the path where the MMSeekR.data located
 ```
 devtools::install("MMSeekR.data") ##Which would you like to update? Please choose 3
 ```
 
-Enter the path where the MethylSeekR2 located
+Enter the path where the MMSeekR located
 ```
 devtools::install("MMSeekR")  ##Which would you like to update? Please choose 3
 ```
