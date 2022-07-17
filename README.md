@@ -32,12 +32,12 @@ devtools::install("MMSeekR.data") ##Which would you like to update? Please choos
 
 Enter the path where the MethylSeekR2 located
 ```
-devtools::install("MMSeekR2")  ##Which would you like to update? Please choose 3
+devtools::install("MMSeekR")  ##Which would you like to update? Please choose 3
 ```
 
 #### How to call PMDs
 Check the runPMDs help and you can test the examples.
 ```
-library("MMSeekR2")
+library("MMSeekR")
 ?runPMDs
 ```
