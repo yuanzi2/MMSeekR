@@ -36,8 +36,8 @@ devtools::install("MMSeekR")  ##Which would you like to update? Please choose 3
 ```
 
 #### How to call PMDs
-Check the runPMDs help and you can test the examples.
+Check the runMultiModel help and you can test the examples.
 ```
 library("MMSeekR")
-?runPMDs
+?runMultiModel
 ```
