@@ -1,10 +1,10 @@
 Package: MMSeekR
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Segmentation of Bis-seq data using a multi-model sequence aware approach
 Version: 0.1.0
 Author: Yueyuan Zheng, Dror Bar, Lior Fishman, Dechen Lin, Benjamin P. Berman
 Maintainer: Yueyuan Zheng <zhengyueyuan2@gmail.com>
-Description: This is a package for the discovery of partially methylated domains (PMDs) from human Bis-seq data.
+Description: This is a package for the discovery of partially methylated domains (PMDs) from human Bis-seq data, using a multi-model, sequence-aware approach. This model extends the PMD model implemented in the MethylSeekR package。
 Depends: R (>= 3.4.0), MMSeekR.data (>= 0.1.0), MethylSeekR (>= 1.18.0)
 Imports: GenomicRanges, dplyr, MethylSeekR, valr, zoocat, S4Vectors, tibble
 License: GPL-3
