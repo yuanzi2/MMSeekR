@@ -1,5 +1,5 @@
 #' @title Predict PMD and HMD segments
-#' @description Predict PMD and HMD segments using the Viterbi algorithm
+#' @description Predict PMD and HMD segments using the Viterbi algorithm. Some code was adapted from the MethylSeekR package (https://git.bioconductor.org/packages/MethylSeekR).
 #' @import MethylSeekR zoocat GenomicRanges
 #' @param m A GRanges object containing the coordinates, total (T) and methylated counts (M)
 #' @param hmm.modelList A list of the parameters of the HMM model
