@@ -1,4 +1,4 @@
-# Title: MMSeekR (Segmentation of Bis-seq data using a multi-model sequence aware approach)
+# MMSeekR (Segmentation of Bis-seq data using a multi-model sequence aware approach)
 
 This is a package for the discovery of partially methylated domains (PMDs) from human Bis-seq data, using a multi-model, sequence-aware approach. This model extends the PMD model implemented in the MethylSeekR package
 
