@@ -1,5 +1,5 @@
 #' @title Training PMD and HMD models
-#' @description Train a two-state Hidden Markov Model (HMM) with Gaussian emissions.
+#' @description Train a two-state Hidden Markov Model (HMM) with Gaussian emissions. Some code was adapted from the MethylSeekR package (https://git.bioconductor.org/packages/MethylSeekR).
 #' @import MethylSeekR zoocat
 #' @param m A GRanges object containing the coordinates, total (T) and methylated counts (M)
 #' @param chr.sel Chromosome on which HMM should be trained. Must be one of the sequence levels of m. (default chr16)
