@@ -1,5 +1,5 @@
 #' @title Load Bis-seq data
-#' @description Loading Bis-seq data from tab-delimited file or saved GRanges object
+#' @description Loading Bis-seq data from tab-delimited file or saved GRanges object. Some code was adapted from the MethylSeekR package (https://git.bioconductor.org/packages/MethylSeekR).
 #' @import GenomicRanges
 #' @importFrom dplyr left_join
 #' @param fileName Text file or RDS file for GRanges object.
