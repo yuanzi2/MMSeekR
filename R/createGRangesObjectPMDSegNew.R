@@ -1,6 +1,6 @@
 #' @title Create an GRanges Object containing the PMD segmentation.
 #' @import GenomicRanges
-#' @description Create an GRanges Object containing the PMD segmentation
+#' @description Create an GRanges Object containing the PMD segmentation. Some code was adapted from the MethylSeekR package (https://git.bioconductor.org/packages/MethylSeekR).
 #' @param m A GRanges object containing the coordinates, total (T) and methylated counts (M)
 #' @param y.list A list of the predicted results.
 #' @param num.cores The number of cores used for the calculations (default 1)
