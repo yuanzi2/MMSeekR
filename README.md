@@ -1,5 +1,5 @@
-# MMSeekR
-The discovery of partially methylated domains (PMDs) from human Bis-seq data.
+# Title: MMSeekR
+Segmentation of Bis-seq data using a multi-model sequence aware approach
 
 #### Download the packages from github
 *Maybe they are private repositories now, so can't use devtools::install_github to directly downlod them.*
