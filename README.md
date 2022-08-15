@@ -3,8 +3,13 @@
 This is a package for the discovery of partially methylated domains (PMDs) from human Bis-seq data, using a multi-model, sequence-aware approach. This model extends the PMD model implemented in the MethylSeekR package
 
 #### Download the packages from github
-*uUse devtools::install_github to directly downlod them.*
-  Use git clone to download them in local position. Open terminal or git bash or Rstudio (Tools-->Shell)
+*Use devtools::install_github to directly downlod them.
+
+```
+  devtools::install_github("yuanzi2/MMSeekR")
+```
+
+*Or use git clone to download them in local position. Open terminal or git bash or Rstudio (Tools-->Shell)
 
 Obtain MMSeekR.data
 ```
