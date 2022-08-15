@@ -1,5 +1,5 @@
 #' @title Remove blackList and save PMD segments
-#' @description Remove blackList and save PMD segments in rds format and a tab-delimited file.
+#' @description Remove blackList and save PMD segments in rds format and a tab-delimited file. Some code was adapted from the MethylSeekR package (https://git.bioconductor.org/packages/MethylSeekR).
 #' @import GenomicRanges tibble
 #' @importFrom valr bed_subtract
 #' @param seg GRanges object.
