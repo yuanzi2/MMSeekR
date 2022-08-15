@@ -6,7 +6,7 @@ This is a package for the discovery of partially methylated domains (PMDs) from 
 *Use devtools::install_github to directly downlod them.
 
 ```
-  devtools::install_github("yuanzi2/MMSeekR")
+devtools::install_github("yuanzi2/MMSeekR")
 ```
 
 *Or use git clone to download them in local position. Open terminal or git bash or Rstudio (Tools-->Shell)
