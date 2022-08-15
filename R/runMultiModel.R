@@ -1,5 +1,5 @@
 #' @title Predict PMDs using multi-model
-#' @description PMD prediction using multi-model
+#' @description PMD prediction using multi-model. Some code was adapted from the MethylSeekR package (https://git.bioconductor.org/packages/MethylSeekR).
 #' @import GenomicRanges MethylSeekR zoocat
 #' @importFrom dplyr left_join
 #' @importFrom valr bed_subtract
